@@ -1,3 +1,4 @@
 http://tenant1.localhost:8000
 http://tenant2.localhost:8000
 http://tenant3.localhost:8000
+http://tenant1.localhost:8000/login
